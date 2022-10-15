@@ -7,6 +7,7 @@ Requirements
 ------------
 
 Рабочий хост
+OS Debian buster
 
 Role Variables
 --------------
